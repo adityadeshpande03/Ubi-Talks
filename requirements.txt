@@ -1,0 +1,4 @@
+transformers==4.40.1
+tokenizers==0.19.1
+gradio
+torch # You need PyTorch for the Hugging Face model to work
